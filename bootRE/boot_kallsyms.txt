@@ -1,0 +1,4 @@
+  File "/home/geckyn/firm/dumpyara/vmlinux-to-elf/vmlinux_to_elf/kallsyms_finder.py", line 112
+    name : str = None
+         ^
+SyntaxError: invalid syntax
